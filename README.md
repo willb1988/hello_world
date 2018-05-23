@@ -1,6 +1,6 @@
 # hello_world
 
-hello everybody
+hello world
 
 my name is Will and I like burritos 
 
